@@ -5,6 +5,13 @@ body {
 	font-weight: 300;
 }
 
+#example1 {
+    background-image: url(./hellsinki.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 100px;
+}
+	
 .container {
 	height: 10%;
 	width: 80%;
@@ -102,4 +109,25 @@ p {
 	font-size: 25px;
 	float: center;
 }
+
+.back {
+	height: 80%;
+	width: 80%;
+	
+}
+
+#inspire {
+	height: 200px;
+    width: 50%;
+	text-align: center;
+}
+
+#contact {
+	height: 200px;
+    width: 50%;
+	text-align: left;
+}
+
+
+
 
