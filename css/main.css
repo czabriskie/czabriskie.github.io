@@ -13,9 +13,12 @@ body {
 }
 	
 .container {
+	z-index: 1;
+	position: fixed;
 	height: 10%;
 	width: 80%;
 	margin: 0 auto;
+	background: #55d6aa;
 }
 
 header {
